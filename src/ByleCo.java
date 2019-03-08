@@ -16,4 +16,9 @@ public class ByleCo {
     public void newMethod(){
         System.out.println("jestem sobie nowa galezia vallerka!");
     }
+
+
+    public static void newFeauture(){
+        System.out.println("moja metoda");
+    }
 }
