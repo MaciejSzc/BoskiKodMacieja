@@ -1,7 +1,7 @@
 public class Olimp {
 
     private boolean immortal;
-    private String name;
+
 
     public Olimp(boolean immortal) {
         this.immortal = immortal;
