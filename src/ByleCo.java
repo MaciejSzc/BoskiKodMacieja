@@ -15,4 +15,10 @@ public class ByleCo {
     public static void newFeauture(){
         System.out.println("moja metoda");
     }
+
+    public static void  nieByleCo (){
+        System.out.println("cos waznego");
+    }
+
+
 }
