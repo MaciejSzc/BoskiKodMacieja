@@ -10,4 +10,9 @@ public class ByleCo {
 
         System.out.println("whatever");
     }
+
+
+    public static void newFeauture(){
+        System.out.println("moja metoda");
+    }
 }
