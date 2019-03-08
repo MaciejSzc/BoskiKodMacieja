@@ -9,5 +9,7 @@ public class ByleCo {
         System.out.println("kdsnskjnksjfnskjfnsjkfn");
 
         System.out.println("whatever");
+
+        System.out.println("Nowa zmiana Michala");
     }
 }
