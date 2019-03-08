@@ -6,5 +6,7 @@ public class ByleCo {
         System.out.println("to jednak ja - Justyna");
         System.out.println("kdsnskjnksjfnskjfnsjkfn");
 
+        System.out.println("whatever");
+
     }
 }
