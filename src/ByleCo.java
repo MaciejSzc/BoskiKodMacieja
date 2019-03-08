@@ -9,5 +9,11 @@ public class ByleCo {
         System.out.println("kdsnskjnksjfnskjfnsjkfn");
 
         System.out.println("whatever");
+
+
+    }
+
+    public void newMethod(){
+        System.out.println("jestem sobie nowa galezia vallerka!");
     }
 }
