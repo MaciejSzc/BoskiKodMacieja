@@ -7,5 +7,6 @@ public class DiffClass {
 
 
         System.out.println("asdasddsads");
+        System.out.println("test");
     }
 }
